@@ -17,7 +17,7 @@
 # In Solana, what is the propagation method by which a leaders distribute blocks toother nodes in the network?
 答案是 Turbine
 # Which fraternity was Arthur Hayes a member of during college?
-答案是 Delta
+答案是 Castle
 # What are the three main challenges faced by Layer 1 blockchains thatDoubleZero aims to address?
 答案是 Filtering, routing, traceability
 # Who is a cofounder of DoubleZero?
@@ -56,4 +56,28 @@
 答案是 Metaplex
 # In Solana, what does swQoS prioritize?
 答案是 Amount of stake
+# Which network was the first to try proof-of-stake?
+答案是 Peercoin
+# Which of the following functions is NOT part of the ERC-20standard?
+答案是 onlyAdmin
+# Which consensus mechanism does Berachain use?
+答案是 Proof of Liquidity
+# Which innovative feature does Doppler implement toenhance token launches?
+答案是 Two-phase launch system with a Dutch auction and dynamic bonding curve
+# Which institution of higher education started the DeFiEducation Fund?
+答案是 Harvard
+# What does the acronym RiSC stand for?
+答案是 Reduced Instruction Set Computer
+# How many consecutive slots is each leader assignedbefore rotation occurs to the next leader in Solana?
+答案是 Four consecutive slots (1.6 seconds)
+# Which of the following best describes concentratedliquidity?
+答案是 Ability to allocate funds to a specific price range
+# Which Domain-Specific Language (DSL)is primarily usedfor developing smart contracts on the Starknet platform?
+答案是 Cairo
+# What is the name of Solana''s mechanism that provides areliable source of truth for passage of time?
+答案是  PoH（Proof of History）
+# How did Hyperliquid's distribution strategy differ fromother chains?
+答案是 Took no VC money
+# Which country"s Ruby crypto wallet is supported by Base?
+答案是 Vietnam
 # 
