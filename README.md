@@ -80,4 +80,32 @@
 答案是 Took no VC money
 # Which country"s Ruby crypto wallet is supported by Base?
 答案是 Vietnam
+# What is the duration of the challenge period for OP Stacknetworks?
+答案是 7 days
+# On which online forum was the Bitcoin whitepaper firstpublished?
+答案是 Metzdowd
+# Which cryptocurrency company is responsible for maintainingthe Cross-Chain Transfer Protocol (CCTP)?
+答案是 usdc母公司 Circle 
+# Which of the following best describes ElP-4844 in Ethereum?
+答案是 Proto-Danksharding
+# Which project uses Reed-Solomon coding?
+答案是 Firedancer  也就是sol   Firedancer” 是 Solana 的高性能验证器客户端
+# On which platform was the $TRUMP memecoin initiallylaunched?
+答案是 Moonshot
+# In the context of DeFi tokens, what does the prefix "ve" usuallystand for?
+答案是 Vote Escrow
+# What is the "Superchain" and what does it aim to achieve?
+答案是 A network of chains with shared interop
+# Which DeFi founder and protocol are credited with inventing theconcept of liquidity mining?
+答案是 Robert Leshner and Compound Protocol
+# According to J.P Morgan, what is the estimated daily notionalvalue of zero days to expiration options trading?
+答案是 $1 trillion
+# Which popular social media platform introduced support forNFT profile pictures in 2022?
+答案是 推特 
+#  Which NFT community is associated with the cryptocurrency token $CULT?
+答案是 Milady Maker
+# How much ETH are validators required to stake in order to participate in Ethereum proof-of-stake?
+答案是 32 
+# Which of the following blockchain platforms supports the development of smart contracts in C++?
+答案是  Algorand
 # 
