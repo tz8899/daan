@@ -108,4 +108,5 @@
 答案是 32 
 # Which of the following blockchain platforms supports the development of smart contracts in C++?
 答案是  Algorand
-# 
+# What is the average number of user-generated transactions per second on the Solana blockchain?
+答案是 25,000 TPS
